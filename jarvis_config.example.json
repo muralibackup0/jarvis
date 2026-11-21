@@ -1,0 +1,13 @@
+{
+  "USER_NAME": "",
+  "ADDRESS": "sir",
+  "OLLAMA_MODEL": "qwen2.5:3b",
+  "AI_BACKEND": "auto",
+  "WHISPER_MODEL": "base.en",
+  "VOICE_HINT": "david",
+  "TTS_RATE": 1,
+  "TTS_VOLUME": 100,
+  "FOLLOWUP_SECONDS": 8,
+  "MIC_THRESHOLD": null,
+  "ALLOW_SHELL_COMMANDS": false
+}

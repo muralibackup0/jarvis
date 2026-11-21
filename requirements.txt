@@ -1,9 +1,18 @@
+# Speech recognition (offline Whisper) and microphone
 faster-whisper>=1.1
 sounddevice>=0.5
 numpy
+
+# Voice output (Windows SAPI)
 comtypes
+
+# Laptop control
 psutil
-requests
 pyautogui
+pillow            # screenshots (pyautogui/pyscreeze also need it)
 pyperclip
 screen-brightness-control
+send2trash        # deletions go to the Recycle Bin, never permanent
+
+# AI brain + web
+requests
